@@ -3,8 +3,8 @@ import cv2
 import time
 
 # Initialize the Telegram bot
-bot = telebot.TeleBot("6843529361:AAEEPwP36laT-Hc8nO3CQHcuwg80tIqQOH8")
-CHAT_ID = "1484998700"
+bot = telebot.TeleBot("6782137170:AAE1V5CBbzQp8cEi0-Ep8pKlm6iSozqgZrY")
+CHAT_ID = "5363437553"
 
 last_alert_time = 0
 
